@@ -1,0 +1,18 @@
+{
+    "id": 505,
+    "name": "Party",
+    "author": "GreenCat",
+    "creators": ["GreenCat"],
+    "verifier": "GreenCat",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Medium Demon",
+    "records": [
+        {
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "9"
+        }
+    ]
+}

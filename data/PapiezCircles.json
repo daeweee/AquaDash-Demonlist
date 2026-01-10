@@ -1,0 +1,25 @@
+{
+    "id": 339,
+    "name": "PAPIEZ circles",
+    "author": "Axzyr",
+    "creators": ["Axzyr","Kolbes"],
+    "verifier": "Axzyr",
+    "verification": "https://www.youtube.com/watch?v=-yIkWo99fK8",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "skillset": "Wave",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "FB26",
+            "link": "https://discord.com/channels/1071498783592038480/1317940305340928050/1373158804895567943",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}
