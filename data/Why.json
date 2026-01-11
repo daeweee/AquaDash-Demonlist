@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "difficulty": "Easy Demon",
     "records": [
+         {
+            "user": "HommaS",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
     ]
 }
